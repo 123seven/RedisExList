@@ -12,8 +12,7 @@
 ![](https://img.shields.io/badge/language-python-orange.svg)
 ![](https://img.shields.io/cocoapods/l/Alamofire.svg?style=flat)  
 
-Python Redis 过期列表。
-
+Python Redis 过期列表。项目中用于管理微信小程序的[formId](https://developers.weixin.qq.com/miniprogram/dev/framework/open-ability/template-message.html)
 
 ## 使用示例
 
